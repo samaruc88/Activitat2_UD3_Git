@@ -28,3 +28,6 @@ El ciclo formativo de grado superior en Desarrollo de Aplicaciones Web (DAW) tie
     * Configuración de entornos de desarrollo integrados (IDEs).
     * Control de versiones con Git.
     * Uso de herramientas para la depuración y pruebas
+#### Metodología
+El curso se desarrolla mediante clases teóricas y prácticas, con proyectos
+intermodulares
